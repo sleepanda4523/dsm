@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  3 12:03:12 2020
-
-@author: user
-"""
 from selenium import webdriver
 from selenium.webdriver.common.alert import Alert
 import time
