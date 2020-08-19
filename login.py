@@ -9,7 +9,7 @@ from selenium.webdriver.common.alert import Alert
 import time
 
 url = 'https://www.dsm-dms.com'
-driver = webdriver.Chrome
+driver = webdriver.Chrome()
 driver.get(url)
 
 delay = 3
